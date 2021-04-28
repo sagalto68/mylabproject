@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="app">
-      <Routes userData={userData}/>
+      <Routes />
     </div>
   );
 }
